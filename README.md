@@ -1,2 +1,3 @@
 # hello-world
-A intro Hello World
+
+An introduction "Hello World!" application.
